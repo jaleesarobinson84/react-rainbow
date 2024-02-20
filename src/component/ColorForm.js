@@ -20,7 +20,7 @@ function ColorForm(props) {
                     type="text"
                     value={input}
                     onChange={handleChange}
-                    placeholder="Hey!!! Color Here!!!..."
+                    placeholder="Hey!!! Color Goes Here!!!..."
                 />
                 <button type="submit">Submit</button>
             </form>
